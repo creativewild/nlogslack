@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <schema id="NLog.Slack"
-		   targetNamespace="https://gist.githubusercontent.com/creativewild/271d217b6ffede760cbc6a33f5454b9f/raw/e79761a1acf70cd4dc75d8741242ddacfb56bb53/NLog.Slack.xsd"
+		   targetNamespace="https://raw.githubusercontent.com/creativewild/nlogslack/master/NLog.Slack.xsd"
 		   xmlns="http://www.w3.org/2001/XMLSchema"
 		   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-		   xmlns:mstns="https://gist.githubusercontent.com/creativewild/271d217b6ffede760cbc6a33f5454b9f/raw/e79761a1acf70cd4dc75d8741242ddacfb56bb53/NLog.Slack.xsd"
+		   xmlns:mstns="https://raw.githubusercontent.com/creativewild/nlogslack/master/NLog.Slack.xsd"
 		   xmlns:nlog="http://www.nlog-project.org/schemas/NLog.xsd"
 		   elementFormDefault="qualified">
   <import namespace="http://www.nlog-project.org/schemas/NLog.xsd" />
